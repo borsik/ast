@@ -1,0 +1,16 @@
+<relation>
+<op>plus</op>
+<left><relation>
+<op>plus</op>
+<left><relation>
+<op>plus</op>
+<left>5</left>
+<right>5</right>
+</relation>
+</left>
+<right>5</right>
+</relation>
+</left>
+<right>5</right>
+</relation>
+
